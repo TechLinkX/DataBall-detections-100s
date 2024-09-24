@@ -12,10 +12,10 @@
 
 * WeChat:
 
-* <img src="./doc/wx.png"  align = "left"  width="160" /><br>
+* <img src="./doc/wx.png"  align = "left"  width="160" /><br><br><br><br><br><br>
 
 * WeChat (Technology group):
 
-* <img src="./doc/v1.png"  align = "left"  width="160" /><br>
+* <img src="./doc/v1.png"  align = "left"  width="160" /><br><br><br><br><br><br>
 
 * <img src="./doc/logo.png"  align = "center"  width="160" /><br>
